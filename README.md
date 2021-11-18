@@ -2,7 +2,7 @@
 Background
 *A decentralized app for the information of organization*
 
-The importance of information security in organizations cannot be overstated. Sensitive data is one of an organisation’s most important assets, so it makes sense that you prioritise its security. In Afghanistan when the Taliban came, most of organizations scanned the hard files and destroyed all the contracts and hard information because of the security issues. Most of staff worked from home and can not go to office, most of them miss the meeting, calls, programs because they do not have a good system to do the voting process.
+The importance of information security in organizations cannot be overstated. Sensitive data is one of an organisation’s most important assets, so it makes sense that you prioritise its security. In Afghanistan when the .. came, most of organizations scanned the hard files and destroyed all the contracts and hard information because of the security issues. Most of staff worked from home and can not go to office, most of them miss the meeting, calls, programs because they do not have a good system to do the voting process.
 
 
 Description
