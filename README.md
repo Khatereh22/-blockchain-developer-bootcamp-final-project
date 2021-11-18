@@ -16,9 +16,9 @@ User:
  User can access to their account and do the voting feature.
 
 Solution:
-Create a smart contract, StructDemo having structure Employee with data members as empid, name, department, designation. Create a dynamic array of Employee as emps.
-Create a function addEmployee() which takes the data of the employee and stores into a dynamic array called emps.
-Create a function getEmployee() which takes the employee id, searches the record in the emps array, and returns the details like name, department, and designation.
+ .We should have a smart contract, StaffRegistration having structure Employee with data members as empid, name, project and ...
+ .Create a function register() which takes the data of the employee and stores 
+ .Create a function getEmployeeDetails() which takes the employee id and returns the details like name, name, project and...
 
 
 
